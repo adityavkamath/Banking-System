@@ -1,5 +1,3 @@
-
-```markdown
 # Bank Management System
 
 This is a simple bank management system implemented in Java using JDBC for database interaction. It allows bank employees to perform operations such as opening new accounts, viewing existing account data, and registering ATM agencies. Users can also perform transactions like depositing and withdrawing money.
@@ -62,7 +60,3 @@ This is a simple bank management system implemented in Java using JDBC for datab
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Feel free to adjust any details or add more sections as needed for your project.
